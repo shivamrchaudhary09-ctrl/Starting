@@ -1,1 +1,1 @@
-print(eval(int(input(">>>"))))
+print(eval(input(">>>")))
